@@ -1,0 +1,37 @@
+html {
+background-image:url('../images/bg.gif');
+color:#FFFFFF;
+font-family:"Georgia", "Lucinda Grande",Sans-Serif;
+}
+#mainbox
+{
+border-style:solid;
+border-width:2px;
+width:930px;
+padding:10px;
+margin-right:auto;
+margin-left:auto;
+position:relative;
+background-color:#2A2A2A;
+}
+#smallbox
+{
+border-style:solid;
+border-width:2px;
+width:900px;
+margin-bottom:10px;
+padding:10px;
+margin-right:auto;
+margin-left:auto;
+background-color:#2A2A2A;}
+#smallbox a:link
+{
+color:#FF9900;
+}
+#smallbox a:visited
+{
+color:#FF9900;
+}
+#smallbox a{
+color:#339933;
+}
